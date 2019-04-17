@@ -1,4 +1,8 @@
 * {
-	position: relative;
 	box-sizing: border-box;
+}
+
+.head {
+	position: relative;
+	color: powderblue;
 }
